@@ -4,7 +4,7 @@
 ### Junior Frontend Developer
 
 ## About me
-I was born in Russia in 1995. I love math since childhood, that's why i went to study engineering after school. After my univercity education I couldn't find a job in my specialty. Then I decided to look for something that I like. After all I became a JS developer in a big company. I hope to gain experience in this course for my future development.
+I was born in Russia in 1995. I love math since childhood, that's why i went to study engineering after school. After my university education I couldn't find a job in my specialty. Then I decided to look for something that I like. After all I became a JS developer in a big company. I hope to gain experience in this course for my future development.
 
 ## Contacts
 * Discord: Norseng#9007
